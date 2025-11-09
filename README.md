@@ -36,5 +36,5 @@
 
 ## Швидкий старт
 
-![Android CI](https://github.com/OWNER/REPO/actions/workflows/android-
+![Android CI](https://github.com/d3cryptex/HelloCompose/actions/workflows/android-
 ci.yml/badge.svg)
